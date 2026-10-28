@@ -1,0 +1,24 @@
+{
+  "background": "#1D1B2B",
+  "surface": "#2C2A40",
+  "card": "#302F45",
+  "border": "#47445F",
+  "primary": "#8967FB",
+  "gradient": {
+    "angle": "90deg",
+    "stops": [
+      { "color": "#8C7FFE", "position": "0%" },
+      { "color": "#8967FB", "position": "50%" },
+      { "color": "#864FF8", "position": "100%" }
+    ]
+  },
+  "text": {
+    "default": "#9D9CB5",
+    "hover": "#C7C7D7",
+    "active": "#FFFFFF"
+  },
+  "wordmark": {
+    "onDark": "#F5F5FA",
+    "onLight": "#1D1B2B"
+  }
+}
