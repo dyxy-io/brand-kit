@@ -1,5 +1,8 @@
 <p align="center">
-  <img src="logos/svg/dyxy-logo-light-text.svg" alt="DYXY" height="56">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="logos/svg/dyxy-logo-light-text.svg">
+    <img src="logos/svg/dyxy-logo-dark-text.svg" alt="DYXY" height="56">
+  </picture>
 </p>
 
 # DYXY brand kit
